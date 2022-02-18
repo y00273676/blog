@@ -2,11 +2,12 @@
 title: "Ksitigarbha"
 date: 2022-02-18T15:02:27+08:00
 ---
-# [ksitigarbha](https://github.com/y00273676/ksitigarbha)
-
-
+# ksitigarbha
 
 - go web assist tools
+
+## Repo 
+   [github.com/ksitigarbha](https://github.com/y00273676/ksitigarbha)
 
 
 ## Supported Features
