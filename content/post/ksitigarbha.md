@@ -2,7 +2,8 @@
 title: "Ksitigarbha"
 date: 2022-02-18T15:02:27+08:00
 ---
-# ksitigarbha
+# [ksitigarbha](git@github.com:y00273676/ksitigarbha.git)
+
 
 
 - go web assist tools
