@@ -10,7 +10,12 @@ if [ $# -eq 1 ]
 fi
 git commit -m "$msg"
 
-git commit -m 'update sit'
 git push -f origin master
 
 cd ..
+
+git add .
+
+git commit -m "$msg"
+
+git push origin master
