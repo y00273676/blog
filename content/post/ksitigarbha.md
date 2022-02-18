@@ -2,7 +2,7 @@
 title: "Ksitigarbha"
 date: 2022-02-18T15:02:27+08:00
 ---
-# [ksitigarbha](git@github.com:y00273676/ksitigarbha.git)
+# [ksitigarbha](https://github.com/y00273676/ksitigarbha)
 
 
 
